@@ -3,17 +3,18 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-saft)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iansaft.dev@gmail.com)
 
-Desenvolvedor **Full Stack** com foco em **Backend** e mais de **4 anos de experiência** construindo sistemas de alta criticidade, APIs robustas e arquiteturas escaláveis. 🛠️
+Desenvolvedor Full Stack com quase 5 anos de experiência, com foco em transformar desafios de negócio em produtos escaláveis e inovadores. 🚀
 
-- 💻 **Stack Principal:** Atuação em produtos reais com tecnologias centradas em **Node.js, Go, TypeScript** e bancos de dados **relacionais e não-relacionais**.
-- 💡 **Mindset:** Autodidata por natureza, encaro desafios como oportunidades de crescimento e gosto de contribuir ativamente com o time, indo além das minhas próprias entregas.
-- 🤝 **Colaboração:** Acredito na troca de conhecimento e no impacto positivo de um time alinhado.
+- 🛠️ **Stack Principal:** Atuação em produtos reais com tecnologias centradas em **Go, TypeScript, React, Node.js** e bancos de dados **relacionais e não-relacionais**.
+- 💡 **Mindset & Colaboração:** Autodidata por natureza, busco ativamente contribuir com o time além das minhas entregas, otimizando processos e focando na intersecção entre **engenharia e estratégia de produto**.
+- 🏗️ **Arquitetura & Impacto:** Experiência na **liderança e modernização de sistemas legados** críticos e na **concepção de soluções E2E do zero**, priorizando software resiliente e de alta manutenibilidade.
+
 
 ---
 
 ### 🎯 Objetivos de Carreira
 
-Busco uma posição **remota ou híbrida** onde possa agregar valor técnico e criar raízes sólidas. Meu foco é o comprometimento genuíno com os projetos, o time e a cultura da empresa, visando sempre o impacto de longo prazo. 🌳
+Busco oportunidades onde possa agregar valor técnico e construir **relações de longo prazo** com projetos e equipes. Meu foco é o **comprometimento genuíno**, unindo rigor técnico ao impacto comercial para gerar valor sustentável e crescimento mútuo. 🌳
 
 ---
 
@@ -65,7 +66,7 @@ Busco uma posição **remota ou híbrida** onde possa agregar valor técnico e c
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)****
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
