@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-saft)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iansaft.dev@gmail.com)
 
-Desenvolvedor Full Stack com quase 5 anos de experiência, com foco em transformar desafios de negócio em produtos escaláveis e inovadores. 🚀
+**Desenvolvedor de Software Full Stack** com quase **5 anos de experiência**, focado em transformar desafios de negócio em produtos **escaláveis e inovadores**. 🚀
 
 - 🛠️ **Stack Principal:** Atuação em produtos reais com tecnologias centradas em **Go, TypeScript, React, Node.js** e bancos de dados **relacionais e não-relacionais**.
 - 💡 **Mindset & Colaboração:** Autodidata por natureza, busco ativamente contribuir com o time além das minhas entregas, otimizando processos e focando na intersecção entre **engenharia e estratégia de produto**.
