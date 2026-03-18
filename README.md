@@ -72,7 +72,7 @@ Busco oportunidades onde possa agregar valor técnico e construir **relações d
 
 ---
 
-### 📚 Atualmente focado em:
+### 📚 Zona de Estudo
 Estou aprofundando meus conhecimentos em Cloud Infrastructure, Mensageria e Observabilidade para sustentar arquiteturas de larga escala.
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
